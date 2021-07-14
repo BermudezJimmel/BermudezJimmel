@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **JavaSwing, HTML, CSS, JavaScript, PHP, SQL,and Wordpress**
+- 💬 Ask me about **JavaSwing, HTML, CSS, JavaScript, PHP, SQL, GIT,and Wordpress**
 
 - 📫 How to reach me **bermudezjimmel7@gmail.com**
 
