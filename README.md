@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GLobaltronics**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel and React**
 
 - 💬 Ask me about **JavaSwing, HTML, CSS, JavaScript, PHP, SQL, GIT,and Wordpress (Elementor)**
 
