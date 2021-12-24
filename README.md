@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimmel Bermudez</h1>
 <h3 align="center">A passionate Fullstack developer from Philippines</h3>
 
-- 🔭 I’m currently working on **GLobaltronics**
+- 🔭 I’m currently working on **Globaltronics**
 
 - 🌱 I’m currently learning **Laravel and React**
 
