@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmel Bermudez</h1>
-<h3 align="center">A passionate Junior Website Programmer from Philippines</h3>
+<h3 align="center">A passionate Junior Website Programmer and DevOps/Cloud Enginner from Philippines</h3>
 
 - 🔭 I’m currently working on **Vbusiness Software and Solutions Inc.**
 
