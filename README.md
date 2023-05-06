@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jimmel Bermudez</h1>
 <h3 align="center">A passionate Junior Website Programmer from Philippines</h3>
 
-- 🔭 I’m currently working on **Globaltronics**
+- 🔭 I’m currently working on **Vbusiness Software and Solutions Inc.**
 
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 I’m currently learning **Terraform**
 
-- 💬 Ask me about **JavaSwing, HTML, CSS, JavaScript, PHP, SQL, GIT,and Wordpress (Elementor)**
+- 💬 Ask me about **AWS, DNS Mangement, AWS Lightsail, Web Hosting, Netbean (JavaSwing), HTML, CSS, JavaScript, PHP, SQL, GIT,and Wordpress (Elementor)**
 
 - 📫 How to reach me **bermudezjimmel7@gmail.com**
 
