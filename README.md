@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimmel Bermudez</h1>
 <h3 align="center">A passionate Junior Website Programmer and DevOps/Cloud Engineer from Philippines</h3>
 
-- 🔭 I’m currently working on **Vbusiness Software and Solutions Inc.**
+- 🔭 I’m currently working on **Valueline Systems and Solutions Corp.**
 
 - 🌱 I’m currently learning **Terraform**
 
