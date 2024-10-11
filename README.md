@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jimmel Bermudez</h1>
-<h3 align="center">A passionate Junior Website Programmer and DevOps/Cloud Engineer from Philippines</h3>
+<h3 align="center">A passionate Solutions Architect and DevOps/Cloud Engineer from Philippines</h3>
 
-- 🔭 I’m currently working on **Valueline Systems and Solutions Corp.**
+- 🔭 I’m currently working on **Sagesoft Solutions Inc.**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **AWS, DNS Mangement, AWS Lightsail, Web Hosting, Netbean (JavaSwing), HTML, CSS, JavaScript, PHP, SQL, GIT,and Wordpress (Elementor)**
 
